@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning real-time scheduling
-- 🔭 I’m currently working at @EHPCL lab.
+- 🏫 B.S. in Electrical and Computer Engineering.
+- 🔭 Incoming M.S. student in Computer Science and Technology.
+- 🌱 Currently working on real-time scheduling on heterogeneous system.
 - 📫 How to reach me: xuyuankai_095@sjtu.edu.cn.
 
 
