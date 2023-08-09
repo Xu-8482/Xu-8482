@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🏫 B.S. in Electrical and Computer Engineering.
-- 🔭 Incoming M.S. student in Computer Science and Technology.
-- 🌱 Currently working on real-time scheduling on heterogeneous system.
+- 🔭 Master student major in Computer Science and Techonoloy @SJTU.
+- 🌱 Research on real-time scheduling on heterogeneous system.
 - 🐈 Member of SJTU @EHPCL lab.
 - 📫 How to reach me: xuyuankai_095@sjtu.edu.cn.
 
